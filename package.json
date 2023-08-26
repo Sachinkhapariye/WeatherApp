@@ -1,0 +1,20 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "sachin this my practice of nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "author": "Sachin khapariye",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "nodemailer": "^6.9.4",
+    "nodemon": "^3.0.1",
+    "npx": "^10.2.2",
+    "request": "^2.88.2"
+  }
+}
